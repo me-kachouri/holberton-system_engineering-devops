@@ -1,0 +1,1 @@
+This is the variables and expansions bash scripts directory.
